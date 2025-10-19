@@ -1,4 +1,4 @@
-Objective: Creating Image Search Engine using html, Css, js. 
+Objective: Revising my JS concepts by Creating "Image Search Engine" using html, Css, js. 
 
 What do you think, what js methods, elements, tags,etc we are going to need. 
 1. Input tag: to take input
